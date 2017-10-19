@@ -22,7 +22,7 @@ import javax.swing.*;
 
 /**
  *
- * @author Augusto
+ * 
  */
 public class Cliente extends JFrame implements ActionListener, KeyListener {
 
